@@ -9,10 +9,18 @@ Das hier ist ein Repository, in dem ich Dinge festhalten will, die ich gelernt h
 
 * [git](#git)
 * [jq](#jq)
+* [restic](#restic)
+* [ssh](#ssh)
 
 ### git
 
 * [Git mit SSH-Keys verwenden](git/git-ssh-keys.md)
 
 ### jq
-* 
+
+### restic
+* [Restic - Repository-Passwort automatisiert nutzen](restic/restic-repository-password-automatisiert-nutzen.md)
+* [Restic - Backup-Skript](restic/restic-backup-script.md)
+
+### ssh
+* [Passphrase zu bestehendem Key hinzufügen](ssh/passphrase-zu-bestehendem-key-hinzufuegen.md)
