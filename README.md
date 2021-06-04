@@ -7,15 +7,27 @@ Das hier ist ein Repository, in dem ich Dinge festhalten will, die ich gelernt h
 
 ## Kategorien
 
+* [aks](#aks)
 * [git](#git)
+* [go](#go)
+* [kubernetes](#kubernetes)
 * [jq](#jq)
 * [restic](#restic)
 * [ssh](#ssh)
 
+### aks
+* [abgebrochnenes kubernetes upgrade fortsetzen](aks/stuck-kubernetes-upgrade.md)
 ### git
 
 * [Git mit SSH-Keys verwenden](git/git-ssh-keys.md)
 
+### go
+* [Build Tags](go/build-tags.md)
+### kubernetes
+* [Custom Columns](kubernetes/custom-columns.md)
+* [Nach Feld sortieren](kubernetes/nach-feld-sortieren.md)
+* [Secrets aus Datei anlegen](kubernetes/secret-anlegen-aus-datei.md)
+* [Build Tags](go/build-tags.md)
 ### jq
 
 ### restic
