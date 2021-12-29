@@ -1,4 +1,5 @@
 # Kubernetes Update
+
 #kubernetes #aks
 
 Kommt es zum Fehler bei einem Upgrade der AKS-Cluster, muss man den Prozess wieder starten, nachdem man die Fehler behoben hat.
